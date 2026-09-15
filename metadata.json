@@ -1,0 +1,6 @@
+{
+  "name": "SNEVE",
+  "description": "SNEVE: Men's Grooming. Delivered. Premium on-demand master barbers and luxury men's grooming services delivered directly to your home, office, or hotel suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
